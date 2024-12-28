@@ -10,9 +10,9 @@ Welcome to **Akid**, an open-source agriculture marketplace that connects farmer
 - **Nationwide Delivery:** Efficient logistics for fresh and timely product delivery.
 
 ## 🔧 Technologies Used
-- **Frontend:** React / Angular / Vue *(update based on actual tech stack)*
-- **Backend:** Node.js / Django / Flask *(update based on actual tech stack)*
-- **Database:** MongoDB / MySQL / PostgreSQL *(update based on actual tech stack)*
+- **Frontend:** HTML CSS JAVASCRIPT BOOTSTRAPS*
+- **Backend:** PHP*
+- **Database:**  MySQL / PostgreSQL*
 - **APIs:** Integrated for secure payments and delivery tracking.
 
 ## 🚀 Getting Started
