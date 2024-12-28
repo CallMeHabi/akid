@@ -71,9 +71,6 @@ We welcome contributions from developers, designers, and agriculture enthusiasts
    ```
 5. Open a pull request.
 
-## 📄 License
-This project is licensed under the MIT License. See the file for details.
-
 ## 📩 Contact
 For questions, suggestions, or feedback, reach out to us at At.aminedhouadi@gmail.com
 
